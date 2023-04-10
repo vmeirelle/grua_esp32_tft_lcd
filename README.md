@@ -1,4 +1,5 @@
-# grua_esp32_tft_lcd
+# Posicionamento de grua de grande porte
+
 Controle e visualização do posicionamento de grua em display com ESP32
 
 ## Componentes Fisícos
