@@ -95,4 +95,6 @@ Calculador: Este componente é responsável por calcular a posição da grua. El
 
 Atualizador: Este componente é responsável por atualizar o display. Ele usa a comunicação **** para pegar a posição da grua e desenhar no display.
 
+#COLOCAR AQUI as demais variavéis utilizadas e também a comunicação utilizada e bibliotecas se for o caso
+
 Lógica geral do sistema: Ele é responsável por instanciar e configurar os componentes de leitura, calculo e atualização bem como executar a lógica do sistema no método loop(). O método setup() é utilizado para inicializar o sistema.
