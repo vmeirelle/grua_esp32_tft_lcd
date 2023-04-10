@@ -99,3 +99,5 @@ Atualizador: Este componente é responsável por atualizar o display. Ele usa a 
 #COLOCAR AQUI as demais variavéis utilizadas e também a comunicação utilizada e bibliotecas se for o caso
 
 Lógica geral do sistema: Ele é responsável por instanciar e configurar os componentes de leitura, calculo e atualização bem como executar a lógica do sistema no método loop(). O método setup() é utilizado para inicializar o sistema.
+
+#Quebrar módulo de atualização da tela: Especificar desenho, como ele desenha. angulo, letras, eixos e visões.
